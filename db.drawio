@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="-TH5niIT8qfvevKe-ZTf" name="Page-1">
-        <mxGraphModel dx="1141" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="811" dy="301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -178,7 +178,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="page2" id="Si32Oo2oabg2GPwbRhai">
-        <mxGraphModel dx="856" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+        <mxGraphModel dx="608" dy="226" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="ezxxoLJ7P5ZrjPc3StpG-0"/>
                 <mxCell id="ezxxoLJ7P5ZrjPc3StpG-1" parent="ezxxoLJ7P5ZrjPc3StpG-0"/>
@@ -233,7 +233,7 @@
                         <mxPoint x="619" y="69" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="RfnB-6ntf6B7-69k1LJ9-11" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=default;gradientColor=none;" vertex="1" parent="ezxxoLJ7P5ZrjPc3StpG-1">
+                <mxCell id="RfnB-6ntf6B7-69k1LJ9-11" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=#3399FF;gradientColor=none;" vertex="1" parent="ezxxoLJ7P5ZrjPc3StpG-1">
                     <mxGeometry x="615" y="47" width="212" height="98" as="geometry"/>
                 </mxCell>
                 <mxCell id="RfnB-6ntf6B7-69k1LJ9-12" value="&lt;h5&gt;&lt;i&gt;super_admin&lt;/i&gt;&lt;/h5&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="ezxxoLJ7P5ZrjPc3StpG-1">
